@@ -1,0 +1,6 @@
+torch
+sentence-transformers
+open_clip_torch
+opencv-python
+ffmpeg-python
+faiss-cpu
