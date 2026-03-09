@@ -70,5 +70,3 @@ for r in results:
   such as VDMS, Milvus, or Pinecone.
 
 ---
-
-Feel free to extend this prototype with additional functionality.
